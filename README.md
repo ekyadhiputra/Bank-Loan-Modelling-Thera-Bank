@@ -44,8 +44,9 @@ Dataset memiliki 5000 observasi mengenai perilaku nasabah Thera Bank.
 * Online : Penggunaan nasabah akan fasilitas online banking (0 = Tidak, 1=Ya)
 
 * Credit Card : Penggunaan nasabah dengan fasilitas kartu kredit  (0 = Tidak, 1=Ya)
+* Personal Loan (Target) : Peminjaman ase (personal Loan) ke Nasabah (0 = Tidak, 1=Ya)
 
 **Tujuan**
 
 Mencari Insight, pattern dan mencari Model Bisnis yang tepat agar strategi Personal Loan dapat Maksimal
-* Personal Loan (Target) : Peminjaman ase (personal Loan) ke Nasabah (0 = Tidak, 1=Ya)
+
