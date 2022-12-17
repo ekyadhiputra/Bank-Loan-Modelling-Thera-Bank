@@ -48,5 +48,14 @@ Dataset memiliki 5000 observasi mengenai perilaku nasabah Thera Bank.
 
 **Tujuan**
 
-Mencari Insight, pattern dan mencari Model Bisnis yang tepat agar strategi Personal Loan dapat Maksimal
+Mencari Insight, pattern dan mencari Model Bisnis yang tepat agar strategi Personal Loan dapat Maksimal dan juga meminimalisir kerugian akibat salah memberi Personal Loan.
+
+
+**Model Machine Learning yang diuji**
+
+* Logistic Regression
+* K-NN
+* Decision Tree Classification
+* Random Forest Classification
+
 
